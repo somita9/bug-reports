@@ -22,7 +22,7 @@
 Должна быть валидация формата и допустимого диапазона даты (например, реальная дата, не в будущем, возрастные ограничения — если применимо).
 
 ## Evidence
-- Видео(raw): https://github.com/somita9/attachments/raw/main/attachments/demoqa/BR-002/DEMOQA%20-%20Google%20Chrome%202026-01-16%2012-59-53.mp4
+- Видео(raw): https://github.com/somita9/attachments/blob/main/demoqa/BR-002/DEMOQA%20-%20Google%20Chrome%202026-01-16%2012-59-53.mp4
 
 ## Notes
 Вероятно отсутствует корректная валидация значения Date of Birth.
