@@ -28,7 +28,8 @@
 Ввод и удаление значения в полях **Subjects** и **Date of Birth** не должны приводить к падению страницы.
 
 ## Evidence
-- Видео: [DEMOQA - Google Chrome 2026-01-13 13-14-04.mp4](https://github.com/somita9/attachments/blob/main/attachments/demoqa/BR-001/DEMOQA%20-%20Google%20Chrome%202026-01-13%2013-14-04.mp4)
+- Видео: [DEMOQA - Google Chrome 2026-01-13 13-14-04.mp4](https://github.com/somita9/attachments/blob/main/attachments/attachments/demoqa/BR-001/DEMOQA%20-%20Google%20Chrome%202026-01-13%2013-14-04.mp4)
+
 
 
 
