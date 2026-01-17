@@ -3,7 +3,7 @@
 - **Severity:** Critical
 - **Priority:** High
 - **Окружение:** Windows 11 Pro, Google Chrome (143.0.7499.193)
-- **Страница:** Forms - Practice Form
+- **Страница:** [Forms - Practice Form](https://demoqa.com/automation-practice-form)
 
 ## Preconditions
 1. Открыта страница Practice Form
