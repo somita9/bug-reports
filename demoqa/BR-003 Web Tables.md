@@ -3,7 +3,7 @@
 - **Severity:** Medium
 - **Priority:** Medium
 - **Окружение:** Windows 11 Pro, Google Chrome (143.0.7499.193)
-- **Страница:** Elements > Web Tables
+- **Страница:** [Elements > Web Tables](https://demoqa.com/webtables)
 
 ## Preconditions
 1. Открыта страница Web Tables
